@@ -1,1 +1,3 @@
-# WebNews_Summary
+# Scrapping et résumé d'articles Le Monde
+
+Recherche et mise en place de models de summarization en français. Ce projet utilise et étudie des techniques de NLP pour résumer des articles préalablements scrappés sur le site de LeMonde.fr en python, avec SpaCy, nltk, BERT (camemBERT)...
